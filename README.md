@@ -28,7 +28,6 @@ Create a HTML file to implement form based input and output.
 
 ### Step 6:
 Publish the website in the given URL.
-
 ## PROGRAM :
 ```
 <!DOCTYPE html>
@@ -88,7 +87,6 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-
 ## OUTPUT:
 ![Screenshot 2024-04-25 235525](https://github.com/Balunithu/MathServer/assets/161273477/0c606326-3472-437d-bcc2-eace3148749d)
 
